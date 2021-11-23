@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+  }
+  
+  .home,
+  .aboutme,
+  .mywork   {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+  }
+  
+  .aboutme {
+    /* background-image: url('/images/img-2.jpg'); */
+    background: rgb(189, 54, 54);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+  
+  .mywork {
+    /* background-image: url('/images/img-1.jpg'); */
+    background: rgb(45, 16, 112);
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+  
+  
+.main-banner{
+  background: #fff;
+  width: 70%;
+  height: 60%;
+  border-radius: 10px;
+ }
