@@ -9,7 +9,7 @@ function AboutMe() {
   return (
     <div className='main-container'>
       <video src='/videos/video-3.mp4' autoPlay loop muted />
-      <h1>ANDREIA RIBEIRO</h1>
+      <h1>ANDREIA S RIBEIRO</h1>
       <div className="main-banner">
         <div className='banner-left'>
           <div className='banner-left-img'>
