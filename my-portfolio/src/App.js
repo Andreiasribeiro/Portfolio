@@ -12,7 +12,7 @@ import Illustrations from './components/pages/Illustrations';
 import MyWork from './components/pages/MyWork';
 import NewWay from './components/pages/NewWay';
 import UserInterfaces from './components/pages/UserInterfaces';
-
+import Footer from './components/Footer';
 
 
 function App() {
@@ -32,6 +32,7 @@ function App() {
           <Route path='/ammygeorge' exact component={AmmyGeorge} ></Route>
           <Route path='/illustrations' exact component={Illustrations} ></Route>
         </Switch>
+        <Footer/>
       </Router>
     </div>
   )

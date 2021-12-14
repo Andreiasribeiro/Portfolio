@@ -36,9 +36,58 @@
   }
   
   
-.main-banner{
+.main-banner {
   background: #fff;
-  width: 70%;
-  height: 60%;
+  width: 80%;
+  height: 65%;
   border-radius: 10px;
+  display: flex;
+ }
+ .banner-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+   width: 40%;
+   height: 100%;
+   border-radius: 10px;
+   position: relative;
+  
+ }
+ .banner-left-img{
+  border-radius: 50%;
+  position: absolute; 
+  background-image: url('./components/images/profile.jpg');
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   width: 80%;
+   height: 80%;
+   
+ 
+   
+ }
+ .banner-right {
+  background: white;
+  width: 60%;
+  height: 100%;
+  text-align: center;
+
+  border-radius: 10px;
+  position: relative
+
+ }
+ .banner-right p{
+   margin: 20px;
+   position: absolute;               
+   top: 50%;                         
+   transform: translate(0, -50%);
+   line-height: 1.5;
+   text-align: justify;
+   padding: 20px;
+ }
+ .profile-img {
+  width: 60%;
+  height: 50%;
+
  }
