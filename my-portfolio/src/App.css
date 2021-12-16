@@ -94,7 +94,17 @@
 
  }
  @media screen and (max-width: 960px) {
-
+  .banner-left {
+   display: none;
+  }
+  .banner-right {
+    width: 650px;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+   
+  
+   }
  }
 
  @media screen and (max-width: 768px) {
@@ -105,10 +115,9 @@
     border-radius: 10px;
     display: grid;
    }
-   .banner-left {
    
     
-      }
+    
       .banner-right {
         background: white;
         width: 400px;
