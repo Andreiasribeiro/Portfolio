@@ -30,19 +30,19 @@ function MyWork() {
                             src='images/illustration-dream.jpg'
                             text="Illustration/portrait - 'Dreams'"
                             text2="See more"
-                            path='/mywork'
+                            path='/illustrations'
                         />
                         <CardItem
                             src='images/illustration-colors.jpg'
                             text='Illustration/portrait  - Colors Experience'
                             text2="See more"
-                            path='/mywork'
+                            path='/illustrations'
                         />
                         <CardItem
                             src='images/illustration-poetry.jpg'
                             text='Illustration/portrait  - Poetry Experience'
                             text2="See more"
-                            path='/mywork'
+                            path='/illustrations'
                         />
                     </ul>
                 </div>
