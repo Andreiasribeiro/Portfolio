@@ -18,7 +18,7 @@ function MyWork() {
                             path='/userinterfaces'
                         />
                         <CardItem
-                            src='images/img-work-2.png'
+                            src='images/img-work-3.png'
                             text='Websites'
                             text2="See more"
                             path='/userinterfaces'
