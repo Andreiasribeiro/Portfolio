@@ -100,3 +100,109 @@
   line-height: 1.5;
   text-align: justify;
  }
+
+ @media screen and (max-width: 960px) {
+  .banner-armotor {
+    width: 600px;
+    height: 400px;
+   
+  }
+  .banner-newway {
+    width: 600px;
+    height: 400px;
+     }
+ .banner-coffeeshop {
+     width: 600px;
+    height: 400px;
+     }
+
+ .banner-ecoresort {
+      width: 600px;
+      height: 400px;
+       }
+
+.banner-ammygeorge {
+        width: 600px;
+        height: 400px;
+         }
+
+
+  .text-armotor{
+    width: 600px;
+    height: 500px;
+    
+  }
+  .text-newway{
+    width: 600px;
+    height: 500px;
+    
+  }
+  .text-coffeeshop{
+    width: 600px;
+    height: 500px;
+    
+  }
+  .text-ecoresort{
+    width: 600px;
+    height: 500px;
+    
+  }
+  .text-ammygeorge{
+    width: 600px;
+    height: 500px;
+    
+  }
+  
+
+ }
+
+ @media screen and (max-width: 768px) {
+  .banner-armotor {
+    width: 400px;
+    height: 250px;
+   
+  }
+  .banner-newway {
+    width: 400px;
+    height: 250px;
+     }
+ .banner-coffeeshop {
+  width: 400px;
+  height: 250px;
+     }
+
+ .banner-ecoresort {
+  width: 400px;
+  height: 250px;
+       }
+
+.banner-ammygeorge {
+  width: 400px;
+  height: 250px;
+         }
+
+  .text-armotor{
+    width: 400px;
+    height: 500px;
+    
+  }
+  .text-newway{
+    width: 400px;
+    height: 100px;
+        
+  }
+  .text-coffeeshop{
+    width: 400px;
+    height: 100px;
+    
+  }
+  .text-ecoresort{
+    width: 400px;
+    height: 100px;
+    
+  }
+  .text-ammygeorge{
+    width: 400px;
+    height: 100px;
+  }
+}
