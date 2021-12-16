@@ -122,38 +122,36 @@
        }
 
 .banner-ammygeorge {
-        width: 600px;
-        height: 400px;
+ width: 600px;
+ height: 400px;
          }
 
 
   .text-armotor{
     width: 600px;
-    height: 500px;
+    height: 400px;
     
   }
   .text-newway{
     width: 600px;
-    height: 500px;
+    height: 100px;
     
   }
   .text-coffeeshop{
     width: 600px;
-    height: 500px;
+    height: 100px;
     
   }
   .text-ecoresort{
     width: 600px;
-    height: 500px;
+    height: 100px;
     
   }
   .text-ammygeorge{
     width: 600px;
-    height: 500px;
-    
-  }
+    height: 100px;
+      }
   
-
  }
 
  @media screen and (max-width: 768px) {
