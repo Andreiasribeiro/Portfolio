@@ -6,7 +6,7 @@ import AboutMe from './components/pages/AboutMe';
 import AmmyGeorge from './components/pages/AmmyGeorge';
 import CoffeeShop from './components/pages/CoffeeShop';
 import EcoResort from './components/pages/EcoResort';
-import GerGarage from './components/pages/GerGarage';
+import ARMotor from './components/pages/ARMotor';
 import Home from './components/pages/Home';
 import Illustrations from './components/pages/Illustrations';
 import MyWork from './components/pages/MyWork';
@@ -25,7 +25,7 @@ function App() {
           <Route path='/aboutme' exact component={AboutMe} ></Route>
           <Route path='/mywork' exact component={MyWork} ></Route>
           <Route path='/userinterfaces' exact component={UserInterfaces} ></Route>
-          <Route path='/gersgarage' exact component={GerGarage} ></Route>
+          <Route path='/gersgarage' exact component={ARMotor} ></Route>
           <Route path='/newway' exact component={NewWay} ></Route>
           <Route path='/coffeeshop' exact component={CoffeeShop} ></Route>
           <Route path='/ecoresort' exact component={EcoResort} ></Route>

@@ -1,45 +1,21 @@
 import React from 'react'
 import '../../App.css';
-import '../Cards.css'
-import CardItem from '../CardItem';
+import './WorkContent.css';
 
 function CoffeeShop() {
     window.scrollTo(0, 0)
     return (
-        <div className='cards'>
+        <div className='container'>
             <h1>Coffee Shop Website</h1>
-            <div className='cards__container'>
-                <div className='cards__wrapper'>
-                    <ul className='cards__items'>
-                        <CardItem
-                            src='images/img-work-3.png'
-                            text="Coffee Shop website "
-                            text2="See more " 
-                        />
-                    </ul>
-                   
-                    <ul className='cards__items'>
-                    <CardItem
-                            src='images/img-work-4.png'
-                            text="Arraial D'Ajuda Eco Resort Website Project"
-                            text2="See more"
-                            path='/ecoresort'
-                        />
-                        <CardItem
-                            src='images/img-work-5.png'
-                            text="Ammy George Website Project"
-                            text2="See more"
-                            path='/ammygeorge'
-                        />
-                        <CardItem
-                             src='images/img-work-1.png'
-                             text="Ger's Garage Web App Project"
-                             text2="See more"
-                             path='/gersgarage'
-                        />
-                    </ul>
-                    
+            <section>
+                <div className="banner-coffeeshop">
                 </div>
+            </section>
+
+            <div className='text-coffeeshop'>
+                <p>Website layout concept for a coffee shop</p>
+                <p> For additional information about this project please visit:</p>
+                <p><a href="https://www.figma.com/file/YghT9WTWoUxbgSqCHZe2HB/Untitled?node-id=0%3A1" target="_blank">Full layout on Figma</a></p>
             </div>
         </div>
     );

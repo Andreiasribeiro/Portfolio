@@ -1,0 +1,102 @@
+.container {
+    padding: 4rem;
+    background: #fff;
+    display: grid;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  h1 {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+ .banner-armotor {
+     width: 800px;
+     height: 500px;
+     background: rgb(139, 43, 43);
+     background-image: url(./../images/img-work-1.png);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     border-radius: 10px;
+ }
+ .text-armotor{
+  width: 800px;
+  height: 400px;
+  background-color: #fff;
+  padding-top: 30px;
+  line-height: 1.5;
+  text-align: justify;
+}
+ .banner-newway {
+  width: 800px;
+  height: 500px;
+  background: rgb(139, 43, 43);
+  background-image: url(./../images/img-work-2.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+ }
+ .text-newway{
+    width: 800px;
+    height: 100px;
+    background-color: #fff;
+    padding-top: 30px;
+    line-height: 1.5;
+    text-align: justify;
+ }
+ .banner-coffeeshop{
+  width: 800px;
+  height: 500px;
+  background: rgb(139, 43, 43);
+  background-image: url(./../images/img-work-3.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+ }
+ .text-coffeeshop {
+  width: 800px;
+  height: 100px;
+  background-color: #fff;
+  padding-top: 30px;
+  line-height: 1.5;
+  text-align: justify;
+ }
+ .banner-ecoresort{
+  width: 800px;
+  height: 500px;
+  background: rgb(139, 43, 43);
+  background-image: url(./../images/img-work-4.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+ }
+ .text-ecoresort{
+  width: 800px;
+  height: 100px;
+  background-color: #fff;
+  padding-top: 30px;
+  line-height: 1.5;
+  text-align: justify;
+ }
+ .banner-ammygeorge {
+  width: 800px;
+  height: 500px;
+  background: rgb(139, 43, 43);
+  background-image: url(./../images/img-work-5.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+ }
+ .text-ammygeorge{
+  width: 800px;
+  height: 100px;
+  background-color: #fff;
+  padding-top: 30px;
+  line-height: 1.5;
+  text-align: justify;
+ }

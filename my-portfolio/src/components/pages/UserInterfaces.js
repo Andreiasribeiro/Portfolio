@@ -13,7 +13,7 @@ function UserInterfaces() {
                     <ul className='cards__items'>
                         <CardItem
                             src='images/img-work-1.png'
-                            text="Ger's Garage Web Application Booking System- full stack project  "
+                            text="AR MOTOR Garage - full stack project  "
                             text2="See more"
                             path='/gersgarage'
                         />

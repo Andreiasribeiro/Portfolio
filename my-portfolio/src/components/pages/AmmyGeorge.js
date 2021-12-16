@@ -1,52 +1,25 @@
 import React from 'react'
 import '../../App.css';
-import '../Cards.css'
-import CardItem from '../CardItem';
+
 
 function AmmyGeorge() {
     window.scrollTo(0, 0)
     return (
-        <div className='cards'>
+        <div className='container'>
             <h1>Ammy George Website</h1>
-            <div className='cards__container'>
-                <div className='cards__wrapper'>
-                    <ul className='cards__items'>
-                        <CardItem
-                            src='images/img-work-5.png'
-                            text="Ammy George website "
-                            text2="See more "
-                        />
-                    </ul>
-                    <div>
-                       
-                    </div>
-                    <ul className='cards__items'>
-                        <CardItem
-                            src='images/img-work-2.png'
-                            text='New Way Website Project'
-                            text2="See more"
-                            path='/newway'
-                        />
-                        <CardItem
-                            src='images/img-work-1.png'
-                            text="Ger's Garage Web App Project"
-                            text2="See more"
-                            path='/gersgarage'
-                        />
-
-                        <CardItem
-                            src='images/img-work-3.png'
-                            text='Coffee Shop Website Project'
-                            text2="See more"
-                            path='/coffeeshop'
-                        />
-                    </ul>
-                    
-
+            <section>
+                <div className="banner-ammygeorge">
                 </div>
+            </section>
+
+            <div className='text-ammygeorge'>
+                <p>Website layout concept for a weeding dress store</p>
+                <p> For additional information about this project please visit:</p>
+                <p><a href="https://www.figma.com/file/FPcK0OzinjnQh0J3lTUH7j/Bridal-Design?node-id=0%3A1" target="_blank">Full layout on Figma</a></p>
             </div>
         </div>
     );
+    
 }
 
 export default AmmyGeorge
