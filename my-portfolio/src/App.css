@@ -24,7 +24,11 @@
     color: #fff;
     font-size: 100px;
   }
+  .main-container >h1 {
+    padding-top: 30px;
   
+
+}
   .mywork {
     /* background-image: url('/images/img-1.jpg'); */
     background: rgb(45, 16, 112);
@@ -43,6 +47,7 @@
   border-radius: 10px;
   display: flex;
  }
+ 
  .banner-left {
   display: flex;
   flex-direction: row;

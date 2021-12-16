@@ -9,20 +9,17 @@ function AboutMe() {
   return (
     <div className='main-container'>
       <video src='/videos/video-3.mp4' autoPlay loop muted />
-      <h1>ANDREIA S RIBEIRO</h1>
+      <h1>ANDREIA RIBEIRO</h1>
       <div className="main-banner">
         <div className='banner-left'>
           <div className='banner-left-img'>
           </div>
         </div>
         <div className='banner-right'>
-          <p>I convert customer problems and business requirements into elegant design solutions. I am passionate about art, crafts, technology and I am always in search of challenges.
-
-            I have a bachelor's degree in graphic design from the Federal University of Bahia-Brazil and a higher diploma in science in computing from CCT College Dublin-Ireland.
-
-            I have a curious mind, and I like to explore different areas, so I am always experimenting with new techniques and forms of artistic expression in my work.
-
-            I also love drawing, in particular, portraits as you can see on the 'Illustrations' page on this website.</p>
+          <p>I am passionate about art, design, technology, and I like to explore different areas, so I am always experimenting with new techniques and forms of expression in my work.
+I have a curious mind, and I am always in search of challenges. I have recently completed a Higher Diploma in Science in Computing [NFQ Level 8] at CCT College Dublin.
+I also have a bachelor’s degree in Industrial design, and over 10 years of experience. Now I am seeking employment opportunities in the Technology sector, specifically in front-end development where I can continue to develop new skills whilst building on my existing experience and recent training.
+</p>
         </div>
       </div>
     </div>
