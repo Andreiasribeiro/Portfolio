@@ -51,7 +51,7 @@ video {
 
 @media screen and (max-width: 768px) {
     .main-container > video {
-        /* display: none; */
+        display: none;
         background-image: url('../components/images/image-13.jpg');
          /* background: url('./images/img-home.jpg') center center/cover no-repeat; */
          z-index: -1;
