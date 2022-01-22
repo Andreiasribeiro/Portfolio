@@ -111,7 +111,10 @@
  }
 
  @media screen and (max-width: 768px) {
-
+  .main-container > video {
+    display: none;
+         z-index: -1;
+}
   .main-banner {
     background: rgb(143, 47, 47);
     width: 400px;
