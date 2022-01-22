@@ -24,7 +24,7 @@
     color: #fff;
     font-size: 100px;
   }
-  .main-container >h1 {
+  .main-container-2 >h1 {
     padding-top: 30px;
   
 
@@ -111,7 +111,7 @@
  }
 
  @media screen and (max-width: 768px) {
-  .main-container > video {
+  .main-container-2 > video {
     display: none;
          z-index: -1;
 }
