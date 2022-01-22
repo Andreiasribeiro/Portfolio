@@ -111,8 +111,9 @@
  }
 
  @media screen and (max-width: 768px) {
+
   .main-banner {
-    background: #fff;
+    background: rgb(143, 47, 47);
     width: 400px;
     height: 410px;
     border-radius: 10px;
