@@ -18,10 +18,10 @@ function UserInterfaces() {
                             path='/gersgarage'
                         />
                         <CardItem
-                          src='images/img-work-2.png'
-                          text='New Way Website'
+                          src='images/virtualbank5.png'
+                          text='RJS Virtual Bank React App'
                           text2="See more"
-                          path='/newway'
+                          path='/virtualbank'
                         />
                     </ul>
                     <ul className='cards__items'>

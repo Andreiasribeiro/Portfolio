@@ -101,6 +101,17 @@
   text-align: justify;
  }
 
+ .banner-virtualbank {
+  width: 800px;
+  height: 500px;
+  background: #fff;
+  background-image: url(../images/virtualbank5.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+ }
+
  @media screen and (max-width: 960px) {
   .banner-armotor {
     width: 600px;
@@ -150,6 +161,10 @@
   .text-ammygeorge{
     width: 600px;
     height: 100px;
+      }
+      .banner-virtualbank {
+        width: 600px;
+        height: 100px;
       }
   
  }
@@ -203,4 +218,6 @@
     width: 400px;
     height: 100px;
   }
+  
 }
+

@@ -13,6 +13,7 @@ import MyWork from './components/pages/MyWork';
 import NewWay from './components/pages/NewWay';
 import UserInterfaces from './components/pages/UserInterfaces';
 import Footer from './components/Footer';
+import VirtualBank from './components/pages/VirtualBank';
 
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
           <Route path='/ecoresort' exact component={EcoResort} ></Route>
           <Route path='/ammygeorge' exact component={AmmyGeorge} ></Route>
           <Route path='/illustrations' exact component={Illustrations} ></Route>
+          <Route path='/virtualbank' exact component={VirtualBank} ></Route>
         </Switch>
         <Footer/>
       </Router>
