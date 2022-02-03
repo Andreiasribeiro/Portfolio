@@ -13,7 +13,8 @@ function VirtualBank() {
             </section>
 
             <div className='text-ammygeorge'>
-                <p>Website layout concept for a weeding dress store</p>
+                <p>Responsive React web-based application layout concept for virtual bank</p>
+                <p>Project using React Styled-components</p>
                 <p><a href="https://rjsvirtualbank.netlify.app/" target="_blank">Full app online</a></p>
             </div>
         </div>
