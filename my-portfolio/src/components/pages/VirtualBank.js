@@ -14,8 +14,9 @@ function VirtualBank() {
 
             <div className='text-ammygeorge'>
                 <p>Responsive React web-based application layout concept for virtual bank</p>
-                <p>Project using React Styled-components</p>
+                <p>Project uses React Styled-components</p>
                 <p><a href="https://rjsvirtualbank.netlify.app/" target="_blank">Full app online</a></p>
+                <p><a href="https://github.com/Andreiasribeiro/VirtualBank-App" target="_blank">Source code</a></p>
             </div>
         </div>
     );
