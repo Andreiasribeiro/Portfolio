@@ -12,7 +12,7 @@ function ARMotor() {
                 </div>
             </section>
 
-            <div className='text-armotor'>
+            <div className='text'>
                 <p>AR MOTOR Garage is booking system web-based application developed for a small garage,
                     which allows the users to register and book services available in the system.
                     There is a dashboard where the garage’s owner can manage the bookings updating

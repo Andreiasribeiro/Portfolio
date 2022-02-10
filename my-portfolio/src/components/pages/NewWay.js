@@ -12,7 +12,7 @@ function NewWay() {
                 </div>
             </section>
 
-            <div className='text-newway'>
+            <div className='text'>
                 <p>Website layout concept for a sunglasses store</p>
                 <p> For additional information about this project please visit:</p>
                 <p><a href="https://www.figma.com/file/0ShhXPzpSq9my4otTziIxN/New-Way" target="_blank">Full layout on Figma</a></p>

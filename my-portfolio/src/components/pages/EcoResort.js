@@ -12,7 +12,7 @@ function EcoResort() {
             </div>
         </section>
 
-        <div className='text-ecoresort'>
+        <div className='text'>
             <p>Website layout concept for a hotel</p>
             <p> For additional information about this project please visit:</p>
             <p><a href="https://www.figma.com/file/oJdReXcu4nlfHrgociDfzX/Eco-Resort" target="_blank">Full layout on Figma</a></p>

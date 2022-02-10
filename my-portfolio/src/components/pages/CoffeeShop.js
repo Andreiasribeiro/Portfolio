@@ -12,7 +12,7 @@ function CoffeeShop() {
                 </div>
             </section>
 
-            <div className='text-coffeeshop'>
+            <div className='text'>
                 <p>Website layout concept for a coffee shop</p>
                 <p> For additional information about this project please visit:</p>
                 <p><a href="https://www.figma.com/file/YghT9WTWoUxbgSqCHZe2HB/Untitled?node-id=0%3A1" target="_blank">Full layout on Figma</a></p>

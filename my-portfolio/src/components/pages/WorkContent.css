@@ -64,6 +64,7 @@
   line-height: 1.5;
   text-align: justify;
  }
+
  .banner-ecoresort{
   width: 800px;
   height: 500px;
@@ -100,12 +101,12 @@
   line-height: 1.5;
   text-align: justify;
  }
-
+ 
  .banner-virtualbank {
   width: 800px;
   height: 500px;
   background: #fff;
-  background-image: url(../images/virtualbank5.png);
+  background-image: url(./../images/virtualbank5.png);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -126,6 +127,10 @@
      width: 600px;
     height: 400px;
      }
+     .banner-coffeeshop2 {
+      width: 600px;
+     height: 400px;
+      }
 
  .banner-ecoresort {
       width: 600px;
@@ -137,32 +142,8 @@
  height: 400px;
          }
 
-
-  .text-armotor{
-    width: 600px;
-    height: 400px;
-    
-  }
-  .text-newway{
-    width: 600px;
-    height: 100px;
-    
-  }
-  .text-coffeeshop{
-    width: 600px;
-    height: 100px;
-    
-  }
-  .text-ecoresort{
-    width: 600px;
-    height: 100px;
-    
-  }
-  .text-ammygeorge{
-    width: 600px;
-    height: 100px;
-      }
-      .banner-virtualbank {
+ 
+      .text {
         width: 600px;
         height: 100px;
       }
@@ -193,28 +174,14 @@
   width: 400px;
   height: 250px;
          }
+         
+.banner-virtualbank {
+width: 400px;
+height: 250px;
+                 }
 
-  .text-armotor{
-    width: 400px;
-    height: 500px;
-    
-  }
-  .text-newway{
-    width: 400px;
-    height: 100px;
-        
-  }
-  .text-coffeeshop{
-    width: 400px;
-    height: 100px;
-    
-  }
-  .text-ecoresort{
-    width: 400px;
-    height: 100px;
-    
-  }
-  .text-ammygeorge{
+
+  .text{
     width: 400px;
     height: 100px;
   }
