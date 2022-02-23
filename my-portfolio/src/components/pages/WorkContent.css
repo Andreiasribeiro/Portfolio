@@ -10,9 +10,7 @@
     text-align: center;
     padding-bottom: 20px;
   }
-  p {
-   width: 800px;
-  }
+  
  .banner-armotor {
   width: 800px;
   height: 500px;
@@ -25,14 +23,7 @@
     
     
  }
- .text-armotor{
-  width: 800px;
-  height: 400px;
-  background-color: #fff;
-  padding-top: 30px;
-  line-height: 1.5;
-  text-align: justify;
-}
+
  .banner-newway {
   width: 800px;
   height: 500px;
@@ -43,14 +34,7 @@
   background-repeat: no-repeat;
   border-radius: 10px;
  }
- .text-newway{
-    width: 800px;
-    height: 100px;
-    background-color: #fff;
-    padding-top: 30px;
-    line-height: 1.5;
-    text-align: justify;
- }
+ 
  .banner-coffeeshop{
   width: 800px;
   height: 500px;
@@ -61,14 +45,7 @@
   background-repeat: no-repeat;
   border-radius: 10px;
  }
- .text-coffeeshop {
-  width: 800px;
-  height: 100px;
-  background-color: #fff;
-  padding-top: 30px;
-  line-height: 1.5;
-  text-align: justify;
- }
+ 
 
  .banner-ecoresort{
   width: 800px;
@@ -80,14 +57,7 @@
   background-repeat: no-repeat;
   border-radius: 10px;
  }
- .text-ecoresort{
-  width: 800px;
-  height: 100px;
-  background-color: #fff;
-  padding-top: 30px;
-  line-height: 1.5;
-  text-align: justify;
- }
+ 
  .banner-ammygeorge {
   width: 800px;
   height: 500px;
@@ -98,9 +68,9 @@
   background-repeat: no-repeat;
   border-radius: 10px;
  }
- .text-ammygeorge{
+ .text{
   width: 800px;
-  height: 100px;
+  height: 100%;
   background-color: #fff;
   padding-top: 30px;
   line-height: 1.5;
@@ -150,7 +120,7 @@
  
       .text {
         width: 600px;
-        height: 100px;
+        height: 100%;
       }
   
  }
@@ -187,7 +157,6 @@ height: 250px;
 
 
   .text{
-  
     width: 400px;
     height: 100%;
   }

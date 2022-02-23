@@ -13,8 +13,7 @@ function ARMotor() {
                 <div className="banner-armotor">
                 </div>
             </section>
-            <div className='banner-small'>
-            </div>
+           
 
             <div className='text'>
                 <br></br>
