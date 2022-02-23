@@ -10,15 +10,20 @@
     text-align: center;
     padding-bottom: 20px;
   }
+  p {
+   width: 800px;
+  }
  .banner-armotor {
-     width: 800px;
-     height: 500px;
-     background: #fff;
-     background-image: url(./../images/img-work-1.png);
-     background-position: center;
-     background-size: cover;
-     background-repeat: no-repeat;
-     border-radius: 10px;
+  width: 800px;
+  height: 500px;
+  background: #fff;
+  background-image: url(./../images/img-work-1.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+    
+    
  }
  .text-armotor{
   width: 800px;
@@ -182,8 +187,9 @@ height: 250px;
 
 
   .text{
+  
     width: 400px;
-    height: 100px;
+    height: 100%;
   }
   
 }

@@ -14,7 +14,7 @@ function Footer() {
                 <div className="footer-logo">
                     {/* <a href="/"><img className="logo-img" src={logomotor} alt="Logo"></img></a> */}
                 </div>
-                <div>
+                <div className="footer-p" >
                     <p>I'm always looking for new and exciting opportunities. Let's connect.</p>
                 </div>
                 <div className='novo'>

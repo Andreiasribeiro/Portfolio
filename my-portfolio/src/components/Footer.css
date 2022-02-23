@@ -70,3 +70,17 @@
         padding-top: 70px;
     }
 }
+
+@media (max-width: 768px) {
+    .footer-midias{
+        display: block;
+        justify-content: center;
+    }
+ 
+    .my-footer p{
+       justify-content: center;
+       text-align: center;
+       
+    }
+    
+}
