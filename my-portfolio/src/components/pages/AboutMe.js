@@ -16,10 +16,12 @@ function AboutMe() {
           </div>
         </div>
         <div className='banner-right'>
-          <p>I am passionate about art, design, technology, and I like to explore different areas, so I am always experimenting with new techniques and forms of expression in my work.
-I have a curious mind, and I am always in search of challenges. I have recently completed a Higher Diploma in Science in Computing [NFQ Level 8] at CCT College Dublin.
-I also have a bachelor’s degree in Industrial design, and over 10 years of experience. Now I am seeking employment opportunities in the Technology sector, specifically in front-end development where I can continue to develop new skills whilst building on my existing experience and recent training.
-</p>
+
+          <p>Hello! <br></br> I am a UI designer and frontend web developer holding a BSc in Industrial Design, Higher Diploma in Science in Computing,
+            with overall 10 years of experience in product design, and graphic & illustration design for several B2B and B2C customers in different sectors and industries.
+            I bring the design concept to life through a mix of HTML, CSS, and JavaScript, translating UX concepts into code.
+            I am also passionate about the arts, and I like drawing and painting to express my creativity. <br></br>
+            Welcome to explore this website and know more about my work and skills. Feel free to contact me if you want to obtain more information.</p>
         </div>
       </div>
     </div>
