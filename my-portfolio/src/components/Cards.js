@@ -17,7 +17,7 @@ function Cards() {
             />
             <CardItem
                src='images/img-work-2.png'
-               text='Websites'
+               text='User Interfaces'
                text2="See more"
                path='/userinterfaces'
             />

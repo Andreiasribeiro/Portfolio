@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import './App.css';
 import NavBar from './components/NavBar';
 import AboutMe from './components/pages/AboutMe';
@@ -14,6 +14,7 @@ import NewWay from './components/pages/NewWay';
 import UserInterfaces from './components/pages/UserInterfaces';
 import Footer from './components/Footer';
 import VirtualBank from './components/pages/VirtualBank';
+import WebApplications from './components/pages/WebApplications';
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
           <Route path='/' exact component={Home} ></Route>
           <Route path='/aboutme' exact component={AboutMe} ></Route>
           <Route path='/mywork' exact component={MyWork} ></Route>
+          <Route path='/webapplications' exact component={WebApplications} ></Route>
           <Route path='/userinterfaces' exact component={UserInterfaces} ></Route>
           <Route path='/gersgarage' exact component={ARMotor} ></Route>
           <Route path='/newway' exact component={NewWay} ></Route>
@@ -34,7 +36,7 @@ function App() {
           <Route path='/illustrations' exact component={Illustrations} ></Route>
           <Route path='/virtualbank' exact component={VirtualBank} ></Route>
         </Switch>
-        <Footer/>
+        <Footer />
       </Router>
     </div>
   )

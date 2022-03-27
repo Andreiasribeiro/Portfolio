@@ -7,23 +7,10 @@ function UserInterfaces() {
     window.scrollTo(0, 0)
     return (
         <div className='cards'>
-            <h1>WEB APPLICATIONS</h1>
+            <h1>USER INTERFACES</h1>
             <div className='cards__container'>
                 <div className='cards__wrapper'>
-                    <ul className='cards__items'>
-                        <CardItem
-                            src='images/img-work-1.png'
-                            text="AR MOTOR Garage - full stack project  "
-                            text2="See more"
-                            path='/gersgarage'
-                        />
-                        <CardItem
-                          src='images/virtualbank5.png'
-                          text='RJS Virtual Bank React App'
-                          text2="See more"
-                          path='/virtualbank'
-                        />
-                    </ul>
+                    
                     <ul className='cards__items'>
                         <CardItem
                             src='images/img-work-3.png'
@@ -46,12 +33,14 @@ function UserInterfaces() {
                             path='/ammygeorge'
                         />
                         <CardItem
-                            src='images/img-work-6.png'
-                            text='Web Application Booking System experience '
+                            src='images/img-work-2.png'
+                            text='Website layout concept for a sunglasses store '
                             text2="See more"
-                            path='/userinterfaces'
+                            path='/newway'
                         />
                     </ul>
+
+                   
                 </div>
             </div>
         </div>

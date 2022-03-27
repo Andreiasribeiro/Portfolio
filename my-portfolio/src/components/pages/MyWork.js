@@ -15,11 +15,11 @@ function MyWork() {
                             src='images/img-work-1.png'
                             text='Web Applications  '
                             text2="See more"
-                            path='/userinterfaces'
+                            path='/webapplications'
                         />
                         <CardItem
                             src='images/img-work-3.png'
-                            text='Websites'
+                            text='User Interfaces'
                             text2="See more"
                             path='/userinterfaces'
                         />
