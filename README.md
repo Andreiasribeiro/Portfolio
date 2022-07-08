@@ -1,3 +1,3 @@
 # Portfolio
 
- https://andreiasribeiro.github.io/Portfolio/
+https://www.andreiasribeiro.com/
