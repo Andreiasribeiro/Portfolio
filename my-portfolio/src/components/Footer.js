@@ -22,7 +22,7 @@ function Footer() {
                     <a href="https://www.linkedin.com/in/andreiasalesribeiro/" target="_blank"><img className="icon-img" src={lin} alt="Linkedin"></img></a>
                         <a href="https://github.com/Andreiasribeiro" target="_blank"><img className="icon-img" src={git} alt="Facebook"></img></a>
                         <a href="https://www.instagram.com/byandreiaribeiro/" target="_blank"><img className="icon-img" src={inst} alt="Instagram"></img></a>
-                        
+                         <a href="https://wa.me/+35388888888" target="_blank"><img className="icon-img" src={wtapp} alt="WhatsApp"></img></a>
                                          </div>
                     <div>
                         <p>asribeirodesign@gmail.com</p>
