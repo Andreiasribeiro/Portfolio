@@ -17,9 +17,12 @@ function AboutMe() {
         </div>
         <div className='banner-right'>
 
-          <p>Hello! <br></br> I am a passionate Web Development and Quality Assurance enthusiast with a BSc in Industrial Design and a Higher Diploma in Science in Computing. With over ten years of experience in product design, graphic design, and illustration for various B2B and B2C clients across diverse industries, I specialize in bringing design concepts to life using HTML, CSS, and JavaScript.
-<br></br> My educational background, which blends design and technical expertise, provides me with a unique perspective on product usability and functionality. Currently, I work as a Tech Support Engineer, where I am dedicated to learning and applying QA methodologies, tools, and best practices. In addition to my technical work, I have a strong passion for the arts, channeling my creativity through drawing and painting.
-<br></br> Feel free to explore my website. Check out insights about me in {' '}<a href="https://1drv.ms/b/c/cf17f682b336d7a9/EUjlWMmIbJhFsI-EzWcJsdcBDfxHVW6wLfhDDhbgynnsKQ?e=kvhxRP" target="_blank" rel="noopener noreferrer"> data </a>. Reach out if you'd like more information or want to connect.</p>
+
+     <p>Hello! <br></br>I am a QA Engineer and Web Development enthusiast with a unique background that blends creativity and technical analysis. Holding a BSc in Industrial Design and a Higher Diploma in Science in Computing, I leverage over ten years of experience in product design, technical support, and customer service to approach software quality with a user-centred and detail-oriented mindset.
+<br></br> My journey from designing physical products to ensuring digital quality has equipped me with strong analytical thinking, problem-solving skills, and a deep understanding of how users interact with systems. Currently, I focus on manual testing, test case design, bug reporting, and API testing with Postman, while strengthening my QA foundation through structured training and hands-on crowdtesting practice.
+<br></br> Feel free to explore my website, check out my projects on {' '}<a href="https://github.com/Andreiasribeiro" target="_blank" rel="noopener noreferrer"> GitHub </a>, or {' '}<a href="https://www.linkedin.com/in/andreiasalesribeiro" target="_blank" rel="noopener noreferrer"> LinkedIn </a></p>
+
+    
         </div>
       </div>
     </div>
