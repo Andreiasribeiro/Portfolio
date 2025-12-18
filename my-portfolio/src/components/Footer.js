@@ -25,7 +25,7 @@ function Footer() {
                          <a href="https://wa.me/+35388888888" target="_blank"><img className="icon-img" src={wtapp} alt="WhatsApp"></img></a>
                                          </div>
                     <div>
-                        <p>asribeirodesign@gmail.com</p>
+                        <p>asalesribeiro@icloud.com</p>
                     </div>
                 </div>
             </div >{/*close "footer-midias"*/}
